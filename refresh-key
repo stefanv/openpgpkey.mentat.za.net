@@ -1,1 +1,1 @@
-gpg --export 79DFFEFC5EC506356B7BCF00E5FEBCA4A034DD65 > .well-known/openpgpkey/mentat.za.net/hu/oxyn8nu3ojkjb61bugoxyxqgtnrxpw4e
+gpg --export 79DFFEFC5EC506356B7BCF00E5FEBCA4A034DD65 > .well-known/openpgpkey/mentat.za.net/hu/7cr8xbb43oh9t55xqjw3g9xq1cqdqmjd
